@@ -1,4 +1,4 @@
-# 📊 Analisis Permintaan Skill di Pasar Kerja Indonesia
+# 📊 Implementasi Pipeline Preprocessing dan Analitik Pasar Kerja Indonesia Menggunakan Ekosistem Big Data Berbasis Karakteristik 5V
 
 Proyek Big Data Analytics ini bertujuan untuk mengumpulkan, membersihkan, menganalisis, dan memvisualisasikan data lowongan pekerjaan dari berbagai platform (Glints, LinkedIn, Karir.com). Proyek ini menyoroti keahlian (*skills*) apa saja yang paling banyak dicari oleh perusahaan di Indonesia, korelasi gaji dengan tingkat keahlian/pendidikan, serta sebaran geografis lapangan kerja.
 
