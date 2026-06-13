@@ -1,0 +1,40 @@
+city,skill,count,percentage
+Jakarta,Communication,56,30.1
+Jakarta,Teamwork,45,24.2
+Jakarta,Sales/Marketing,38,20.4
+Jakarta,Excel/Office,37,19.9
+Jakarta,English,19,10.2
+Jakarta,Leadership,12,6.5
+Jakarta,Design/UI-UX,10,5.4
+Jakarta,SQL/Database,7,3.8
+Lainnya,Communication,11,40.7
+Lainnya,Sales/Marketing,6,22.2
+Lainnya,Accounting,5,18.5
+Lainnya,Excel/Office,3,11.1
+Lainnya,Teamwork,3,11.1
+Lainnya,Leadership,3,11.1
+Lainnya,Digital Marketing,1,3.7
+Surabaya,Communication,11,40.7
+Surabaya,Teamwork,11,40.7
+Surabaya,Excel/Office,8,29.6
+Surabaya,Sales/Marketing,3,11.1
+Surabaya,Accounting,3,11.1
+Surabaya,Digital Marketing,2,7.4
+Surabaya,Leadership,2,7.4
+Surabaya,SAP/ERP,1,3.7
+Tangerang,Communication,9,52.9
+Tangerang,Sales/Marketing,7,41.2
+Tangerang,Teamwork,4,23.5
+Tangerang,Excel/Office,3,17.6
+Tangerang,Digital Marketing,3,17.6
+Tangerang,Leadership,3,17.6
+Tangerang,Design/UI-UX,2,11.8
+Tangerang,Accounting,2,11.8
+Bandung,Communication,12,75.0
+Bandung,Excel/Office,6,37.5
+Bandung,Teamwork,5,31.2
+Bandung,SAP/ERP,3,18.8
+Bandung,Design/UI-UX,3,18.8
+Bandung,Sales/Marketing,2,12.5
+Bandung,SQL/Database,2,12.5
+Bandung,Python,2,12.5
